@@ -1,0 +1,15 @@
+{
+    "name": "ichiriac/statsd-php",
+    "type": "library",
+    "description": "StatsD client minimalistic implementation for PHP",
+    "keywords": ["statsd", "php", "minimalistic"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "I. CHIRIAC"
+        }
+    ],
+    "autoload": {
+        "classmap": ["statsd.php"]
+    }
+}
