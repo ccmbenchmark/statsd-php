@@ -1,5 +1,5 @@
 {
-    "name": "ichiriac/statsd-php",
+    "name": "ccmbenchmark/statsd-php",
     "type": "library",
     "description": "StatsD client minimalistic implementation for PHP",
     "keywords": ["statsd", "php", "minimalistic"],
